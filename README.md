@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Freddie "Freddie Mac" McGuire @KD5FMU
 - 👀 I’m interested in Ham Radio and foremostly AllStarLink 
 - 🌱 I’m currently learning Debian and ArchLinux
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Script Files and add on apps that will benefit the AllStarLink experience. 
 - 📫 You can reach me at kd5fmu@gmail.com
 - 😄 Pronouns: .KD5FMU
 - ⚡ Fun fact: I am a Ham
