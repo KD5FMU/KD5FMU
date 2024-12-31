@@ -1,3 +1,5 @@
+![SkywarnPlus Logo](https://raw.githubusercontent.com/Mason10198/SkywarnPlus/main/Logo_SWP.svg)
+
 - 👋 Hi, I’m Freddie "Freddie Mac" McGuire @KD5FMU
 - 👀 I’m interested in Ham Radio and foremostly AllStarLink 
 - 🌱 I’m currently learning Debian and ArchLinux
