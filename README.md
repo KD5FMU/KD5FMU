@@ -1,4 +1,4 @@
-![SkywarnPlus Logo](https://raw.githubusercontent.com/Mason10198/SkywarnPlus/main/Logo_SWP.svg)
+![HRC Logo](https://github.com/KD5FMU/Time-Weather-Announce/blob/main/TimeWeather2.png)
 
 - 👋 Hi, I’m Freddie "Freddie Mac" McGuire @KD5FMU
 - 👀 I’m interested in Ham Radio and foremostly AllStarLink 
