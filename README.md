@@ -8,6 +8,10 @@
 - 😄 Pronouns: .KD5FMU
 - ⚡ Fun fact: I am a Ham
 
+<a href="https://www.youtube.com/@HamRadioCrusader" target="_blank">
+  <img src="https://img.shields.io/badge/Subscribe-Ham%20Radio%20Crusader-red?style=for-the-badge&logo=youtube" />
+</a>
+
 <!---
 KD5FMU/KD5FMU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
