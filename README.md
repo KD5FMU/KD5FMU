@@ -1,4 +1,4 @@
-![HRC Logo](https://github.com/KD5FMU/KD5FMU/blob/main/ghc4.png)
+![HRC Logo](https://github.com/KD5FMU/KD5FMU/blob/main/ghc3.png)
 
 - 👋 Hi, I’m Freddie "Freddie Mac" McGuire @KD5FMU
 - 👀 I’m interested in Ham Radio and foremostly AllStarLink 
